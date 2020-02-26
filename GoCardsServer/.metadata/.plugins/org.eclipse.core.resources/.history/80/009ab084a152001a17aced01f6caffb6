@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Index</title>
+</head>
+<body>
+	<header>
+		<img alt="" src="./foto/fournier.jpg">
+	</header>
+	
+	<div>
+		<h1>End Points - main</h1>
+		<ul>
+			<h4>Usuarios</h4>
+			<li>Crear usuario - newUser/{n}/{p}</li>
+			<li>Editar usuario - alterUser/{u}/{nu}/{p}</li>
+			<li>Eliminar usuario - delUser/{u}</li>
+			<h4>Cartas</h4>
+			<li>Crear carta</li>
+			<li>Editar carta</li>
+			<li>Eliminar carta</li>
+			<h4>Partidas</h4>
+			<li>Crear partida</li>
+			<li>Editar partida</li>
+			<li>Eliminar partida</li>
+			<h4>Estadisticas</h4>
+			<li>Crear estadistica</li>
+			<li>Editar estadistica</li>
+			<li>Eliminar estadistica</li>
+		</ul>
+	</div>
+	<div>
+		<ul>
+			<li>Login - login</li>
+			</br>
+			<li>Nueva partida</li>
+			</br>
+			<li>Jugar carta</li>
+			</br>
+		</ul>
+	</div>
+	
+	
+</body>
+</html>

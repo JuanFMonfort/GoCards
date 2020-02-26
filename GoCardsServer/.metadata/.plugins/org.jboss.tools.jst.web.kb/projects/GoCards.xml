@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/jersey/jersey-core/1.19.4/jersey-core-1.19.4.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-servlet-api/9.0.31/tomcat-servlet-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-util/9.0.31/tomcat-util-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-pt-BR/9.0.31/tomcat-i18n-pt-BR-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/ecj-4.13.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-ssi/9.0.31/tomcat-ssi-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina-ha.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/jaspic-api.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-el-api/9.0.31/tomcat-el-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-de/9.0.31/tomcat-i18n-de-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-util.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.2/jackson-jaxrs-1.9.2.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-zh-CN/9.0.31/tomcat-i18n-zh-CN-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/jsp-api.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/websocket-api.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/el-api.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-websocket/9.0.31/tomcat-websocket-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-servlet-1.19.4.jar/meta-inf/taglib.tld" project="GoCards"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jdbc/9.0.31/tomcat-jdbc-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-ja/9.0.31/tomcat-i18n-ja-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-juli/9.0.31/tomcat-juli-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-websocket-api/9.0.31/tomcat-websocket-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/servlet-api.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jni/9.0.31/tomcat-jni-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/sun/jersey/jersey-json/1.19.4/jersey-json-1.19.4.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jasper-el/9.0.31/tomcat-jasper-el-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-ru/9.0.31/tomcat-i18n-ru-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-catalina-ant/9.0.31/tomcat-catalina-ant-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-fr/9.0.31/tomcat-i18n-fr-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/jasper.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/eclipse/jdt/ecj/3.19.0/ecj-3.19.0.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-coyote/9.0.31/tomcat-coyote-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-cs/9.0.31/tomcat-i18n-cs-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jasper/9.0.31/tomcat-jasper-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-api/9.0.31/tomcat-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-api.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-es/9.0.31/tomcat-i18n-es-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina-ant.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/jasper-el.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-storeconfig/9.0.31/tomcat-storeconfig-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/annotations-api.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-tribes/9.0.31/tomcat-tribes-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/codehaus/jackson/jackson-xc/1.9.2/jackson-xc-1.9.2.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-catalina-ha/9.0.31/tomcat-catalina-ha-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jaspic-api/9.0.31/tomcat-jaspic-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-annotations-api/9.0.31/tomcat-annotations-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-jsp-api/9.0.31/tomcat-jsp-api-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-catalina/9.0.31/tomcat-catalina-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-dbcp/9.0.31/tomcat-dbcp-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-util-scan/9.0.31/tomcat-util-scan-9.0.31.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="C:/Users/monfo/.m2/repository/org/apache/tomcat/tomcat-i18n-ko/9.0.31/tomcat-i18n-ko-9.0.31.jar"/>
+  <path value="C:/Users/monfo/Desktop/GoCardsServer/lib/catalina-ssi.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>
